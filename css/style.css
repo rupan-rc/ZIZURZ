@@ -1,0 +1,228 @@
+.wrapper{
+    height: 1500px;
+    width: 1000px;
+    background-color: rgb(211, 209, 209);
+    margin: 0 auto;
+}
+nav{
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(6, 120, 120);
+}
+.logo h2{
+    font-family: sans-serif;
+    color: white;
+    padding: 15px 10px;
+    background-color: black;
+    display: inline-block;
+    letter-spacing: 1px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-right: 90px;
+    cursor: pointer;
+}
+ul li{
+    display: inline-block;
+    float: left;
+    margin-right: 2px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+ul li a{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    padding: 6px 17px;
+    background-color: black;
+    margin-top: 60px;
+    text-transform: uppercase;
+    font-size: small;
+}
+.banner{
+    height: 280px;
+    width: 800px;
+    background-color: white;
+    border: 3px solid cyan;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.banner img{
+    float: left;
+    clear: both;
+    width: 298px;
+}
+
+.banner h3{
+    float: right;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-top: 80px;
+}
+.active, a:hover{
+    background-color: rgb(6, 95, 95);
+}
+.big-box{
+    height: 280px;
+    width: 803px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.box{
+    height: 138px;
+    width: 170px;
+    float: left;
+    margin-right: 23px;
+    border: 3px solid cyan;
+}
+.box-2{
+    height: 138px;
+    width: 170px;
+    float: right;
+    margin-left: 23px;
+    border: 3px solid cyan;
+}
+.box img,.box-2 img{
+    width: 171px;
+    margin-bottom: 20px;
+}
+.box h2, .box-2 h2{
+    font-family: lato;
+    font-size: larger;
+}
+.box p, .box-2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    font-size: smaller;
+}
+
+.bottom{
+    height: 450px;
+    width: 803px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.left-section{
+    height: 450px;
+    width: 40%;
+    background-color: white;
+    border: 3px solid cyan;
+    float: left;
+}
+.featured{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 10px 30px;
+    background-color: black;
+    display: inline-block;
+    letter-spacing: 1px;
+    margin-top: 277px;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+.left-section img{
+    float: left;
+    margin-top: 40px;
+    margin-left: 17px;
+    margin-bottom: 30px;
+}
+.left-section h4{
+    margin-top: 40px;
+    margin-left: 23px;
+    float: left;
+}
+.left-section p{
+    clear: left;
+    margin-left: 20px;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.right-section{
+    height: 450px;
+    width: 380px;
+    float: right;
+}
+.blue{
+    height: 200px;
+    width: 380px;
+    background-color: rgb(46, 169, 169);
+    margin-bottom: 30px;
+    border: 3px solid cyan;
+    padding: 20px;
+}
+.hairstyle{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 10px 30px;
+    background-color: black;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin-left: 290px;
+}
+.blue p{
+    margin-top: 40px;
+    color: white;
+}
+.blue h4{
+    float: right;
+    clear: both;
+    color: white;
+    font-family: sans-serif;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.blue-1{
+    height: 120px;
+    width: 380px;
+    background-color: rgb(46, 169, 169);
+    border: 3px solid cyan;
+    padding: 20px;
+}
+.blue-1 img{
+    width: 150px;
+    float: left;
+    margin-top: -42px;
+}
+.blue-1 h3{
+    color: white;
+    font-family:sans-serif;
+    font-size: large;
+}
+.footer{
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(6, 120, 120);
+}
+.footer-content{
+    height: 100px;
+    background-color: rgb(6, 120, 120);
+    width: 1000px;
+    color: white;
+    font-size: xx-small;
+    font-family:sans-serif;   
+}
+.footer-content h2{
+    margin-left: 400px;
+    display: inline-block;
+    margin-top: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.social{
+    padding: 12px 19px ;
+    background-color: rgb(6, 95, 95);
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}
